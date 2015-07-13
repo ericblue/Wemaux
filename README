@@ -1,0 +1,8 @@
+Wemaux = Faux Wemo, or Fake Wemo.  
+
+Wemaux provides a simple UPNP and HTTP daemon to spoof an authentic Belkin Wemo outlet or switch.  This can be useful to add support for a non-Wemo switch 
+on your network and still use Belkin-compatible software for turning lights on and off.
+
+[Links of Interest]
+
+* https://objectpartners.com/2014/03/25/a-groovy-time-with-upnp-and-wemo/

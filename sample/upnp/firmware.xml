@@ -1,0 +1,5 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/" s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/"><s:Body>
+<u:GetFirmwareVersionResponse xmlns:u="urn:Belkin:service:firmwareupdate:1">
+<FirmwareVersion>FirmwareVersion:WeMo_US_2.00.7166.PVT|SkuNo:Plugin Device</FirmwareVersion>
+</u:GetFirmwareVersionResponse>
+</s:Body> </s:Envelope>
